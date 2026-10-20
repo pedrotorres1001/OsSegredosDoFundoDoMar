@@ -57,7 +57,7 @@ Made as part of a Master's dissertation in Digital Game Development at the Unive
 ### Créditos / Credits
 
 **Desenvolvimento:** Pedro Torres
-**Orientação:** Pedro Beça e Sofia Ribeiro (Universidade de Aveiro)
+**Orientação:** Pedro Miguel dos Santos Beça Pereira e Sofia Alexandra Soares Ribeiro (Universidade de Aveiro)
 **Conteúdo científico:** Coleção Biológica de Apoio à Investigação (CoBI), Departamento de Biologia, Universidade de Aveiro
 
 Foram usadas ferramentas de inteligência artificial como apoio no desenvolvimento; todo o conteúdo foi revisto pelo autor, e o conteúdo científico pela CoBI. / AI tools were used as support during development; all content was reviewed by the author, and the scientific content by CoBI.
